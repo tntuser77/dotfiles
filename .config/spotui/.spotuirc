@@ -1,0 +1,10 @@
+[spotify_api]
+user_name = tntuser55
+; register an application here: https://developer.spotify.com/dashboard/login
+client_id = 8ec6a1710fa24404978f83737c09951f
+client_secret = 4e45984111754c5096043538c9bc4945
+redirect_uri = http://localhost:8888/auth
+
+[other]
+config_version = 1
+

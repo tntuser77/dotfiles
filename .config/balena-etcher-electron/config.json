@@ -1,0 +1,11 @@
+{
+  "unsafeMode": false,
+  "errorReporting": true,
+  "unmountOnSuccess": true,
+  "validateWriteOnSuccess": true,
+  "trim": false,
+  "updatesEnabled": true,
+  "lastSleptUpdateNotifier": null,
+  "lastSleptUpdateNotifierVersion": null,
+  "desktopNotifications": true
+}

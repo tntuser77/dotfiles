@@ -1,0 +1,43 @@
+00:00:00.000130 main     VirtualBox XPCOM Server 6.1.0 r135406 linux.amd64 (Dec 12 2019 21:11:25) release log
+00:00:00.000133 main     Log opened 2020-01-07T17:32:47.360372000Z
+00:00:00.000134 main     Build Type: release
+00:00:00.000135 main     OS Product: Linux
+00:00:00.000136 main     OS Release: 5.4.8-arch1-1
+00:00:00.000137 main     OS Version: #1 SMP PREEMPT Sat, 04 Jan 2020 23:46:18 +0000
+00:00:00.000153 main     DMI Product Name: System Product Name
+00:00:00.000163 main     DMI Product Version: System Version
+00:00:00.000169 main     Firmware type: BIOS
+00:00:00.000195 main     Host RAM: 32113MB (31.3GB) total, 30508MB (29.7GB) available
+00:00:00.000197 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000198 main     Process ID: 9088
+00:00:00.000198 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001678 main     IPC socket path: /tmp/.vbox-tntuser55-ipc/ipcd
+00:00:00.106144 nspr-2   VirtualBox: object creation starts
+00:00:00.106197 nspr-2   Home directory: '/home/tntuser55/.config/VirtualBox'
+00:00:00.107353 nspr-2   HostDnsMonitor: initializing
+00:00:00.107477 nspr-2   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.107484 nspr-2   NAT: resolv.conf: nameserver 208.104.2.36
+00:00:00.107486 nspr-2   NAT: resolv.conf: nameserver 208.104.244.45
+00:00:00.107491 nspr-2   HostDnsMonitor: updating information
+00:00:00.107502 nspr-2   HostDnsMonitor: old information
+00:00:00.107503 nspr-2     no server entries
+00:00:00.107505 nspr-2     no domain set
+00:00:00.107506 nspr-2     no search string entries
+00:00:00.107507 nspr-2   HostDnsMonitor: new information
+00:00:00.107508 nspr-2     server 1: 8.8.8.8
+00:00:00.107510 nspr-2     server 2: 208.104.2.36
+00:00:00.107511 nspr-2     server 3: 208.104.244.45
+00:00:00.107513 nspr-2     no domain set
+00:00:00.107514 nspr-2     no search string entries
+00:00:00.108749 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.108896 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.108959 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.109283 nspr-2   VirtualBox: object created
+00:00:00.944826 nspr-2   Saving settings file "/home/tntuser55/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.952329 nspr-2   Saving settings file "/home/tntuser55/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:19.142712 main     VirtualBox: object deletion starts
+00:00:19.142950 main     HostDnsMonitor: shutting down ...
+00:00:19.149105 main     HostDnsMonitor: shut down
+00:00:19.616397 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:24.149220 main     {00007f4c40014fe0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:24.149728 main     VirtualBox: object deleted

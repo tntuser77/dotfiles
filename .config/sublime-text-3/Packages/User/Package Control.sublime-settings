@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Babel",
+		"Better CoffeeScript",
+		"CoffeeCompile",
+		"ColorPicker",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"HTMLBeautify",
+		"Material Theme",
+		"NeoVintageous",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal"
+	]
+}

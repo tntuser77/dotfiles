@@ -1,0 +1,22 @@
+00:00:00.197511 VirtualBox GUI VM Selector Window 6.1.0 r135406 linux.amd64 (Dec 12 2019 21:11:25) release log
+00:00:00.197512 Log opened 2020-01-07T17:32:47.488051000Z
+00:00:00.197513 Build Type: release
+00:00:00.197514 OS Product: Linux
+00:00:00.197515 OS Release: 5.4.8-arch1-1
+00:00:00.197515 OS Version: #1 SMP PREEMPT Sat, 04 Jan 2020 23:46:18 +0000
+00:00:00.197531 DMI Product Name: System Product Name
+00:00:00.197536 DMI Product Version: System Version
+00:00:00.197542 Firmware type: BIOS
+00:00:00.197569 Host RAM: 32113MB (31.3GB) total, 30506MB (29.7GB) available
+00:00:00.197571 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.197572 Process ID: 9065
+00:00:00.197572 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.197594 Qt version: 5.14.0
+00:00:00.204512 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.204533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.422943 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 3 work area is actually resized to: 0x481 x 1080x1886
+00:00:00.424011 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 2 work area is actually resized to: 0x481 x 1080x1886
+00:00:00.424035 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x481 x 1080x1886
+00:00:00.424965 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x481 x 1080x1886
+00:00:00.476985 refreshCertificates/#1: Certificate '/etc/ca-certificates/extracted/objsign-ca-bundle.pem' is empty
+00:00:00.479334 refreshCertificates/#3: Found 1/300 SSL certs we/you trust (previously 0/0).

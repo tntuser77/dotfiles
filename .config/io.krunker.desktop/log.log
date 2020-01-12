@@ -1,0 +1,273 @@
+[2020-01-05 13:33:06.705] [debug] -------------------- Client Start --------------------
+[2020-01-05 13:33:06.984] [error] Error: Could not connect
+    at Socket.onerror (/tmp/.mount_setup.K1qLP7/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:32:16)
+    at Object.onceWrapper (events.js:291:20)
+    at Socket.emit (events.js:203:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-01-05 13:33:07.396] [info] Checking for update
+[2020-01-05 13:33:07.473] [info] Generated new staging user ID: a94fd64f-08dd-5b0b-98d0-c29459f16c14
+[2020-01-05 13:33:07.824] [info] Update for version 1.7.8 is not available (latest version: 1.7.8, downgrade is allowed).
+[2020-01-05 13:33:10.179] [info] Video gallery initializing
+[2020-01-05 13:33:11.400] [info] THREE.WebGLRenderer 105
+[2020-01-05 13:33:11.441] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 13:33:11.443] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 13:33:11.574] [info] THREE.WebGLRenderer 105
+[2020-01-05 13:33:11.626] [info] THREE.WebGLRenderer 105
+[2020-01-05 13:33:49.829] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350de
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/:505:2429)
+    at Object.I [as apply] (https://krunker.io/:505:18899)
+    at mi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:40287)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:106947
+[2020-01-05 13:36:34.747] [error] TypeError: Cannot read property 'webContents' of undefined
+    at Object.unregisterAll (/tmp/.mount_setup.K1qLP7/resources/app.asar/node_modules/electron-localshortcut/index.js:87:17)
+    at App.<anonymous> (/tmp/.mount_setup.K1qLP7/resources/app.asar/app/main.js:521:11)
+    at Object.onceWrapper (events.js:291:20)
+    at App.emit (events.js:203:13)
+[2020-01-05 13:36:34.748] [error] TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/tmp/.mount_setup.K1qLP7/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:151:17)
+    at IPCTransport.close (/tmp/.mount_setup.K1qLP7/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:155:10)
+    at RPCClient.destroy (/tmp/.mount_setup.K1qLP7/resources/app.asar/node_modules/discord-rpc/src/client.js:668:20)
+    at App.<anonymous> (/tmp/.mount_setup.K1qLP7/resources/app.asar/app/main.js:520:6)
+    at Object.onceWrapper (events.js:291:20)
+    at App.emit (events.js:203:13)
+[2020-01-05 13:59:39.113] [debug] -------------------- Client Start --------------------
+[2020-01-05 13:59:39.403] [error] Error: Could not connect
+    at Socket.onerror (/tmp/.mount_setup.A8U4Dl/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:32:16)
+    at Object.onceWrapper (events.js:291:20)
+    at Socket.emit (events.js:203:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-01-05 13:59:39.816] [info] Checking for update
+[2020-01-05 13:59:40.241] [info] Update for version 1.7.8 is not available (latest version: 1.7.8, downgrade is allowed).
+[2020-01-05 13:59:41.889] [info] Video gallery initializing
+[2020-01-05 13:59:43.162] [info] THREE.WebGLRenderer 105
+[2020-01-05 13:59:43.248] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 13:59:43.252] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 13:59:43.386] [info] THREE.WebGLRenderer 105
+[2020-01-05 13:59:43.487] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:00:13.559] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350de
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/:505:2429)
+    at Object.I [as apply] (https://krunker.io/:505:18899)
+    at mi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:40287)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:106947
+[2020-01-05 14:00:43.802] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/:505:2429)
+    at Object.I [as apply] (https://krunker.io/:505:18899)
+    at mi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:40287)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:106947
+[2020-01-05 14:01:16.551] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/:505:2429)
+    at Object.I [as apply] (https://krunker.io/:505:18899)
+    at mi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:40287)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js:6:106947
+[2020-01-05 14:01:39.138] [info] Video gallery initializing
+[2020-01-05 14:01:40.368] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:01:40.443] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:01:40.446] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:01:40.512] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:01:40.602] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:07.920] [info] Video gallery initializing
+[2020-01-05 14:02:09.143] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:09.215] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:02:09.219] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:02:09.310] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:09.403] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:48.891] [info] Video gallery initializing
+[2020-01-05 14:02:50.088] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:50.159] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:02:50.163] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 14:02:50.250] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:02:50.352] [info] THREE.WebGLRenderer 105
+[2020-01-05 14:04:53.484] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350de
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:07:04.476] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:11:10.488] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:15:31.470] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:19:34.448] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:20:04.445] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:24:33.492] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:28:54.455] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:33:15.437] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:37:45.516] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:39:49.459] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:45:47.553] [error] Exception in queued GPT command RuntimeError: unreachable
+    at wasm-function[313]:0x350e0
+    at wasm-function[387]:0x36565
+    at wasm-function[407]:0x3691a
+    at wasm-function[257]:0x339bc
+    at wasm-function[115]:0x1d955
+    at wasm-function[435]:0x36dae
+    at __wbg_elem_binding0 (https://krunker.io/?game=NY:we0i0:505:2429)
+    at Object.I [as apply] (https://krunker.io/?game=NY:we0i0:505:18899)
+    at qi (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:51055)
+    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020010201.js:6:114092
+[2020-01-05 14:50:48.032] [error] TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/tmp/.mount_setup.A8U4Dl/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:151:17)
+    at IPCTransport.close (/tmp/.mount_setup.A8U4Dl/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:155:10)
+    at RPCClient.destroy (/tmp/.mount_setup.A8U4Dl/resources/app.asar/node_modules/discord-rpc/src/client.js:668:20)
+    at App.<anonymous> (/tmp/.mount_setup.A8U4Dl/resources/app.asar/app/main.js:520:6)
+    at Object.onceWrapper (events.js:291:20)
+    at App.emit (events.js:203:13)
+    at App.<anonymous> (/tmp/.mount_setup.A8U4Dl/resources/app.asar/app/main.js:524:39)
+    at App.emit (events.js:208:15)
+[2020-01-05 16:11:10.895] [debug] -------------------- Client Start --------------------
+[2020-01-05 16:11:11.130] [error] Error: Could not connect
+    at Socket.onerror (/tmp/.mount_setup.cnkQk6/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:32:16)
+    at Object.onceWrapper (events.js:291:20)
+    at Socket.emit (events.js:203:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-01-05 16:11:11.498] [info] Checking for update
+[2020-01-05 16:11:11.866] [info] Update for version 1.7.8 is not available (latest version: 1.7.8, downgrade is allowed).
+[2020-01-05 16:11:13.625] [info] Video gallery initializing
+[2020-01-05 16:11:14.975] [info] THREE.WebGLRenderer 105
+[2020-01-05 16:11:15.051] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 16:11:15.056] [warn] THREE.MeshLambertMaterial: 'smoothShading' is not a property of this material.
+[2020-01-05 16:11:15.190] [info] THREE.WebGLRenderer 105
+[2020-01-05 16:11:15.259] [info] THREE.WebGLRenderer 105
+[2020-01-05 16:11:15.712] [error] TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/tmp/.mount_setup.cnkQk6/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:151:17)
+    at IPCTransport.close (/tmp/.mount_setup.cnkQk6/resources/app.asar/node_modules/discord-rpc/src/transports/ipc.js:155:10)
+    at RPCClient.destroy (/tmp/.mount_setup.cnkQk6/resources/app.asar/node_modules/discord-rpc/src/client.js:668:20)
+    at App.<anonymous> (/tmp/.mount_setup.cnkQk6/resources/app.asar/app/main.js:520:6)
+    at Object.onceWrapper (events.js:291:20)
+    at App.emit (events.js:203:13)
+    at App.<anonymous> (/tmp/.mount_setup.cnkQk6/resources/app.asar/app/main.js:524:39)
+    at App.emit (events.js:208:15)

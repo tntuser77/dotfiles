@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"material_theme_accent_red": true,
+	"neovintageous_build_version": 11100,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
+}
